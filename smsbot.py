@@ -22,7 +22,7 @@ class main():
     {re} ║ {cy}├┤ │  ├┤ {re}║ ╦  ╚═╗{cy}│  ├┬┘├─┤├─┘├┤ ├┬┘
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
                 slogan
-           https://t.me/slogan
+           https://t.me/slogan_98
             """)
 
     def send_sms():
